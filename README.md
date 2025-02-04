@@ -1,12 +1,10 @@
-# Wild-Storage
+![image](https://github.com/user-attachments/assets/008c1e95-331b-4847-8295-1c273f260dea)# Wild-Storage
 
 Wild-Storage lets you use YouTube as a Infinite Cloud Storage. It embeds any files(Images, Videos, Documents, etc) into a video. The video can be uploaded to YouTube and the file can be retrieved from the video. A expansion & compression technique is used to defeat YouTube's compression algorithm. The file can be retrieved from the video without any loss of data.
 
-## Demo Video ([YouTube Link](https://youtu.be/NbeWh011qjs))
+## Demo Video ([YouTube Link](https://youtu.be/vcmBo9KfTC8))
 
-![ezgif com-gif-maker](https://gateway.pinata.cloud/ipfs/Qmdo9ZW5uk6NDYWj8K6oNBABDNtBYZZagAxF9UmoxUQFwM)
-
-## ~~Virtual Environment Set Up~~ ❌ (... Not Required Now)
+![ezgif com-gif-maker](https://s7.ezgif.com/tmp/ezgif-72a9a5c6ebd83.gif)
 
 ### Create Virtual Environment
 
@@ -25,8 +23,6 @@ source env/bin/activate
 ```console
 pip install -r requirements.txt
 ```
-
-## ~~Compile C++ Library & Generate Python Bindings~~ ❌ (... Not Required Now)
 
 ```console
 g++ -fPIC -shared DataProccessing/cLibs/helper.cpp -o DataProccessing/cLibs/c_lib.so
