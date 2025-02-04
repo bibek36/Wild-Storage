@@ -1,10 +1,10 @@
-![image](https://github.com/user-attachments/assets/008c1e95-331b-4847-8295-1c273f260dea)# Wild-Storage
+# Wild-Storage
 
 Wild-Storage lets you use YouTube as a Infinite Cloud Storage. It embeds any files(Images, Videos, Documents, etc) into a video. The video can be uploaded to YouTube and the file can be retrieved from the video. A expansion & compression technique is used to defeat YouTube's compression algorithm. The file can be retrieved from the video without any loss of data.
 
 ## Demo Video ([YouTube Link](https://youtu.be/vcmBo9KfTC8))
 
-![ezgif com-gif-maker](https://s7.ezgif.com/tmp/ezgif-72a9a5c6ebd83.gif)
+![ezgif com-gif-maker](https://github.com/bibek36/Wild-Storage/blob/main/Testing.png)
 
 ### Create Virtual Environment
 
